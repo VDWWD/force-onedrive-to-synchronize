@@ -1,0 +1,1 @@
+VDWWD_SyncForcer.exe "C:\Users\{USERNAME}\OneDrive"
